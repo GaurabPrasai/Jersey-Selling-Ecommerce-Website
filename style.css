@@ -68,7 +68,7 @@ section {
 .main-home {
     width: 100%;
     height: 100vh;
-    background-image: url(img/bg.jpg);
+    background-image: url(src\assets\img\bg.jpg);
     background-position: center;
     background-size: cover;
     display: grid;
